@@ -12,7 +12,8 @@ author: "Abhijith VS"
 <!-- _class: lead -->
 # Product Documentation<br/>— Developer Guide
 ### A Marp-based, version-controlled presentation
-**Contact:** 22ds3000188@ds.study.iitm.ac.in
+
+📧 **Contact:** 22ds3000188@ds.study.iitm.ac.in
 
 <!-- presenter: Open with the motivation for keeping product docs in version control and the benefits of Marp (single source → HTML/PDF/PPTX). -->
 
@@ -47,13 +48,13 @@ author: "Abhijith VS"
 
 ## Algorithmic Complexity (Math)
 
-We often summarize performance with **Big‑O**:
+We often summarize performance with **Big-O**:
 
 $$
 T(n) = O(n \log n)
 $$
 
-For a batched pipeline with \(k\) stages and per‑stage cost \(c_i(n)\):
+For a batched pipeline with \(k\) stages and per-stage cost \(c_i(n)\):
 
 $$
 T_{\text{batch}}(n) = \sum_{i=1}^{k} c_i(n)
