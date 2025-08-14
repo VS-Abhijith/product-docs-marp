@@ -20,6 +20,8 @@ style: |
   }
 ---
 
+<!-- background: url('./assets/image.png') -->
+<!-- _backgroundImage: "./assets/image.png" -->
 <!-- _class: lead -->
 
 # Product Documentation Overview
@@ -36,18 +38,6 @@ Abhijith
 - Easily convertible to PDF, HTML, etc.
 - Clear, concise, and user-friendly
 - Supports technical depth (e.g., equations, code)
-
-**Contact:** 22ds3000188@ds.study.iitm.ac.in
-
----
-
-<!-- background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg) -->
-<!-- _backgroundImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg" -->
-
-# 🌄 Background Image Slide
-
-Background images can enhance clarity and engagement.  
-They make documentation more visually appealing.
 
 **Contact:** 22ds3000188@ds.study.iitm.ac.in
 
