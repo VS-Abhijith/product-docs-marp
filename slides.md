@@ -39,8 +39,8 @@ Abhijith
 
 ---
 
-<!-- _backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png" -->
-<!-- _backgroundSize: cover -->
+backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png"
+backgroundSize: cover
 
 # 🌄 Background Image Slide
 
