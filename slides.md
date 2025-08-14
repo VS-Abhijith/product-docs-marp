@@ -38,6 +38,16 @@ Abhijith
 
 ---
 
+
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1581091870620-1e7b9f3c9f6e?auto=format&fit=crop&w=1200&q=80') -->
+
+## 🌄 Visual Impact
+
+Background images can enhance clarity and engagement.
+
+<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+---
+
 ## 🧮 Algorithmic Complexity
 
 Let’s analyze the time complexity of a binary search:
