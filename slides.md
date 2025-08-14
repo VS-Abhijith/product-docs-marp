@@ -2,6 +2,7 @@
 marp: true
 theme: custom
 paginate: true
+math: true
 style: |
   section {
     font-family: 'Segoe UI', sans-serif;
@@ -25,7 +26,7 @@ style: |
 
 **Technical Writer:**  
 Abhijith  
-<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+**Email:** 22ds3000188@ds.study.iitm.ac.in
 
 ---
 
@@ -36,18 +37,18 @@ Abhijith
 - Clear, concise, and user-friendly
 - Supports technical depth (e.g., equations, code)
 
----
----
----
-
-<!-- background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg') center / cover -->
-
-## 🌄 Visual Impact
-
-Background images can enhance clarity and engagement.
-
 **Contact:** 22ds3000188@ds.study.iitm.ac.in
 
+---
+
+<!-- background: "./assets/bg.jpg" -->
+
+# 🌄 Background Image Slide
+
+Background images can enhance clarity and engagement.  
+They make documentation more visually appealing.
+
+**Contact:** 22ds3000188@ds.study.iitm.ac.in
 
 ---
 
@@ -61,21 +62,11 @@ $$
 
 This logarithmic complexity ensures efficient performance even for large datasets.
 
----
+**Contact:** 22ds3000188@ds.study.iitm.ac.in
 
 ---
 
-<!-- _backgroundImage: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg') -->
-
-## 🌄 Visual Impact
-
-Background images can enhance clarity and engagement.
-
-<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
-
----
-
-## 🛠️ Custom Theme
+# 🛠️ Custom Theme Example
 
 You can define a custom theme in your repo like this:
 
