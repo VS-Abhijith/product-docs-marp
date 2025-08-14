@@ -124,3 +124,19 @@ class: hero
 GET /v1/widgets HTTP/1.1
 Host: api.widgetpro.example
 Authorization: Bearer <token>
+
+---
+
+# Contact
+For more information, reach out at **22ds3000188@ds.study.iitm.ac.in**
+
+---
+
+# Goals & Format
+
+**Contact:** 22ds3000188@ds.study.iitm.ac.in
+
+- Maintainable in **git** (single Markdown file + assets folder)  
+- Convertible to PDF, HTML, PPTX via Marp CLI or CI pipeline  
+- Lightweight theme, consistent layout, and math support
+
