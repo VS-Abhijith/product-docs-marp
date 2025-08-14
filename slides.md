@@ -42,6 +42,7 @@ Abhijith
 ---
 
 <!-- background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg) -->
+<!-- _backgroundImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg" -->
 
 # 🌄 Background Image Slide
 
