@@ -20,8 +20,8 @@ style: |
   }
 ---
 
-<!-- background: url('./assets/image.png') -->
-<!-- _backgroundImage: "./assets/image.png" -->
+<!-- background: url('https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png') -->
+<!-- _backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png" -->
 <!-- _class: lead -->
 
 # Product Documentation Overview
