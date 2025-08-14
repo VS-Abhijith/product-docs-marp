@@ -37,15 +37,16 @@ Abhijith
 - Supports technical depth (e.g., equations, code)
 
 ---
+---
 
+<!-- _backgroundImage: url("https://marp.app/assets/marp.svg") -->
 
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1581091870620-1e7b9f3c9f6e?auto=format&fit=crop&w=1200&q=80') -->
+# 🌄 Background Image Slide
 
-## 🌄 Visual Impact
-
-Background images can enhance clarity and engagement.
+This slide uses a background image from Marp’s official assets.
 
 <span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+
 ---
 
 ## 🧮 Algorithmic Complexity
