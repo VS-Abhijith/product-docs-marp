@@ -60,11 +60,15 @@ This logarithmic complexity ensures efficient performance even for large dataset
 
 ---
 
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1581091870620-1e7b9f3c9f6e?auto=format&fit=crop&w=1200&q=80') -->
+---
+
+<!-- _backgroundImage: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg') -->
 
 ## 🌄 Visual Impact
 
 Background images can enhance clarity and engagement.
+
+<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
 
 ---
 
