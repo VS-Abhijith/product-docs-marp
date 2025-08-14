@@ -20,15 +20,13 @@ style: |
   }
 ---
 
-<!-- background: url('https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png') -->
-<!-- _backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png" -->
 <!-- _class: lead -->
 
 # Product Documentation Overview
 
 **Technical Writer:**  
 Abhijith  
-**Email:** 22ds3000188@ds.study.iitm.ac.in
+<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
 
 ---
 
@@ -39,7 +37,16 @@ Abhijith
 - Clear, concise, and user-friendly
 - Supports technical depth (e.g., equations, code)
 
-**Contact:** 22ds3000188@ds.study.iitm.ac.in
+---
+
+<!-- _backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png" -->
+<!-- _backgroundSize: cover -->
+
+# 🌄 Background Image Slide
+
+This slide uses a background image from your repository.
+
+<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
 
 ---
 
@@ -53,11 +60,9 @@ $$
 
 This logarithmic complexity ensures efficient performance even for large datasets.
 
-**Contact:** 22ds3000188@ds.study.iitm.ac.in
-
 ---
 
-# 🛠️ Custom Theme Example
+## 🛠️ Custom Theme
 
 You can define a custom theme in your repo like this:
 
