@@ -75,6 +75,9 @@ style: |
 <!-- background: url('https://raw.githubusercontent.com/VS-Abhijith/marp-slides/main/assets/title-bg.jpg') center / cover no-repeat -->
 class: hero
 
+# Contact
+For more information, reach out at **22ds3000188@ds.study.iitm.ac.in**
+
 # Product Documentation — WidgetPro SDK
 ### Technical documentation & examples for developers
 
@@ -127,8 +130,6 @@ Authorization: Bearer <token>
 
 ---
 
-# Contact
-For more information, reach out at **22ds3000188@ds.study.iitm.ac.in**
 
 ---
 
