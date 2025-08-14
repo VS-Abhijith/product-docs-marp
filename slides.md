@@ -38,14 +38,16 @@ Abhijith
 
 ---
 ---
+---
 
-<!-- _backgroundImage: url("https://marp.app/assets/marp.svg") -->
+<!-- background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg') center / cover -->
 
-# 🌄 Background Image Slide
+## 🌄 Visual Impact
 
-This slide uses a background image from Marp’s official assets.
+Background images can enhance clarity and engagement.
 
-<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+**Contact:** 22ds3000188@ds.study.iitm.ac.in
+
 
 ---
 
