@@ -1,77 +1,81 @@
 ---
 marp: true
-theme: custom
+title: Product Documentation with Marp
+author: Abhijith
+theme: default
 paginate: true
-math: true
-style: |
-  section {
-    font-family: 'Segoe UI', sans-serif;
-    color: #333;
-  }
-  h1 {
-    color: #005f73;
-  }
-  .email {
-    font-size: 0.8em;
-    color: #888;
-    position: absolute;
-    bottom: 1em;
-    right: 1em;
-  }
 ---
 
 <!-- _class: lead -->
+# Product Documentation with Marp
 
-# Product Documentation Overview
-
-**Technical Writer:**  
-Abhijith  
-<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+Your email: **22ds3000188@ds.study.iitm.ac.in**
 
 ---
 
-## 📦 Goals of Documentation
+## Why Marp?
 
-- Maintainable in version control (e.g., Git)
-- Easily convertible to PDF, HTML, etc.
-- Clear, concise, and user-friendly
-- Supports technical depth (e.g., equations, code)
-
----
-
-backgroundImage: "https://raw.githubusercontent.com/VS-Abhijith/product-docs-marp/main/assets/image.png"
-backgroundSize: cover
-
-# 🌄 Background Image Slide
-
-This slide uses a background image from your repository.
-
-<span class="email">📧 22ds3000188@ds.study.iitm.ac.in</span>
+- Write slides in Markdown
+- Version control friendly
+- Export to **PDF, PPTX, HTML**
+- Custom themes & styling
 
 ---
 
-## 🧮 Algorithmic Complexity
+<!-- Background image -->
+![bg cover](images/background.jpg)
 
-Let’s analyze the time complexity of a binary search:
+# With Background Image
+
+This slide demonstrates a **full background image**.
+
+---
+
+<!-- Custom styling -->
+<!-- _color: #d33682 -->
+<!-- _backgroundColor: #fdf6e3 -->
+
+# Custom Styling
+
+This slide uses **directives** for:
+- Text color
+- Background color
+- Header/footer (if needed)
+
+---
+
+## Mathematical Equations
+
+Algorithmic complexity:
 
 $$
-T(n) = \log_2 n
+T(n) = O(n \log n)
 $$
 
-This logarithmic complexity ensures efficient performance even for large datasets.
+Example formula:
+
+$$
+\frac{d}{dx} e^x = e^x
+$$
 
 ---
 
-## 🛠️ Custom Theme
+# Custom Theme Example
 
-You can define a custom theme in your repo like this:
-
-```css
-/* custom.css */
+<style>
 section {
-  background-color: #f9f9f9;
-  font-family: 'Segoe UI', sans-serif;
+  background: #fdf6e3;
+  color: #657b83;
 }
 h1 {
-  color: #005f73;
+  color: #d33682;
 }
+</style>
+
+This slide applies a **custom CSS theme** inline.
+
+---
+
+# Thank You 🙏
+
+**Contact:** 22ds3000188@ds.study.iitm.ac.in
